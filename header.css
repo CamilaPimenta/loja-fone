@@ -4,13 +4,13 @@ header {
 
 h1 {
   color: #fff;
-  font-family: ArialMT;
+  font-family: "Franklin Gothic Medium";
   font-size: 40px;
 }
 
 a {
   color: #fff;
-  font-family: SegoeUI;
+  font-family: Tahoma;
   font-size: 21px;
   text-decoration: none;
 }
