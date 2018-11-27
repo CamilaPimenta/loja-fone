@@ -1,16 +1,21 @@
-header {
+header,
+body {
   background-color: #e24647;
 }
 
-h1 {
+.comuns {
   color: #fff;
+  font-size: 25px;
   font-family: "Franklin Gothic Medium";
-  font-size: 40px;
+  text-decoration: none;
 }
 
-a {
-  color: #fff;
-  font-family: Tahoma;
+.logosite {
+  font-size: 40px;
+  float: left;
+}
+
+.links {
   font-size: 21px;
-  text-decoration: none;
+  float: right;
 }
