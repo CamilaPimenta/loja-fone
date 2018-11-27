@@ -1,13 +1,16 @@
 header {
   background-color: #e24647;
 }
+
 h1 {
   color: #fff;
+  font-family: ArialMT;
   font-size: 40px;
 }
 
 a {
   color: #fff;
+  font-family: SegoeUI;
   font-size: 21px;
   text-decoration: none;
 }
