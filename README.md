@@ -42,3 +42,10 @@
 - `<header>` - Envolve as tags do cabeçalho do site
 
 - `<title>` - browser que defini onde vai o título. Geralmente no texto da aba da página.
+
+# CSS
+
+É uma linguagem de estilo.
+Tem as seguintes responsabilidades.
+
+- Visual;
