@@ -60,11 +60,12 @@ Tem as seguintes responsabilidades.
 - `overflow: hidden` - propriedade para esconder um elemento;
 - `opacity` - deixa o elemento opaco;
 - `float` - elemento flutuante;
-- `margin-left/right` - fornece a margem externa para o elemento. (respiro/responsivo);
+- `margin-left/right` - fornece a margem externa para o elemento. (respiro/responsivo).
+
   Forma resumida para codificar o margin left, right, top, bottom, quantidade de valor entre parênteses:
 
 ```
-padding: top/bottom right/left; (2 valores);
+margin: top/bottom right/left; (2 valores);
 ```
 
 > `margin` - Espaçamento entre elementos. Se houver dois elementos e empurrar/distanciar um elemento do outro é chamado de respiro externo _margin_.
