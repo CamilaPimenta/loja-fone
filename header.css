@@ -1,21 +1,30 @@
-header,
-body {
+header {
   background-color: #e24647;
-}
-
-.comuns {
   color: #fff;
-  font-size: 25px;
-  font-family: "Franklin Gothic Medium";
-  text-decoration: none;
+  overflow: hidden;
+  margin: 0 115px;
+  /* margin-left: 115px;
+  margin-right: 115px;
+  padding-left: 60px;
+  padding-right: 50px;
+  padding-top: 60px;
+  padding-bottom: 95px;*/
+  padding: 55px 60px 95px;
 }
 
-.logosite {
+h1 {
+  font-family: Arial, "Roboto", sans-serif;
   font-size: 40px;
   float: left;
 }
 
-.links {
+nav {
   font-size: 21px;
+  font-family: "Segoe UI", "Roboto", sans-serif;
   float: right;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }

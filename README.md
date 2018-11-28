@@ -29,7 +29,7 @@
 <a href="http://www.google.com.br"> Google </a>
 ```
 
-- `<nav>` - Envolve as tags e informa as tag's para navegação.
+- `<nav>` - Envolve as tags e informa as tag's para navegação. Tag 'pai'
 
 ```
 <nav>
@@ -43,9 +43,43 @@
 
 - `<title>` - browser que defini onde vai o título. Geralmente no texto da aba da página.
 
+---
+
 # CSS
 
 É uma linguagem de estilo.
 Tem as seguintes responsabilidades.
 
 - Visual;
+
+- `font-size` - define o tamanho da fonte;
+- `background-color` - define a cor de fundo;
+- `color` - define a cor da fonte;
+- `font-family` - define a família da fonte [prestar atenção na família da fonte];
+- `text-decoration` - deixa o texto simples;
+- `overflow: hidden` - propriedade para esconder um elemento;
+- `opacity` - deixa o elemento opaco;
+- `float` - elemento flutuante;
+- `margin-left/right` - fornece a margem externa para o elemento. (respiro/responsivo);
+  Forma resumida para codificar o margin left, right, top, bottom, quantidade de valor entre parênteses:
+
+```
+padding: top/bottom right/left; (2 valores);
+```
+
+> `margin` - Espaçamento entre elementos. Se houver dois elementos e empurrar/distanciar um elemento do outro é chamado de respiro externo _margin_.
+
+- `padding-left/right` - fornece a margem interna para o elemento. (respiro/responsivo);
+- `padding-top` - fornece margem do topo para o próximo elemento;
+- `padding-bottom` - fornece margem entre dois elementos;
+
+Forma resumida para codificar o padding left, right, top, bottom, quantidade de valor entre parênteses:
+
+```
+padding: top right, bottom, left; (todos valores);
+padding: top/bottom right/left; (2 valores);
+padding: top right/left bottom; (3 valores);
+padding: top/rigth/left/bottom;(1 valor);
+```
+
+> `padding` - Espaçamento dentro do próprio elemento. Se desejamos que o conteúdo se afaste/empurre a extremidade, então é um respiro interno _padding_.
