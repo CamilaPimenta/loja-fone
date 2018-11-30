@@ -1,12 +1,17 @@
 header {
   background-color: #e24647;
-  color: #fff;
   overflow: hidden;
-  margin: 0 115px;
   padding: 55px 60px 95px;
 }
 
+#container {
+  transform: 50%;
+  margin: 118px 115px;
+  background-position: center;
+}
+
 h1 {
+  color: #fff;
   font-family: Arial, "Roboto", sans-serif;
   font-size: 40px;
   float: left;
